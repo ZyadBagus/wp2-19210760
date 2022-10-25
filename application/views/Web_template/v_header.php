@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>Web Prog II | Merancang Template Sederhana dengan Codeigniter</title>
-	<link rel="stylesheet" type="text/css" href=<?php echo base_url() ?>assets/css/stylebuku.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/stylebuku.css">
 </head>
 <body>
 	<div id="wrapper">
@@ -12,8 +12,8 @@
 			</hgroup>
 			<nav>
 				<ul>
-					<li><a href="<php echo base_url().'index.php/web' ?>">Home</a></li>
-					<li><a href="<php echo base_url().'index.php/web/about' ?>">About</a></li>
+					<li><a href="<php echo base_url().'Web' ?>">Home</a></li>
+					<li><a href="<php echo base_url().'Web/about' ?>">About</a></li>
 				</ul>
 			</nav>
 			<div class="clear"></div>
